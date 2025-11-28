@@ -1,28 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="360" viewBox="0 0 1024 360">
   <rect width="1024" height="360" fill="#f7fafc"/>
-  <text x="24" y="40" font-size="24" font-family="Arial" fill="#2d3748">Appointment Lifecycle — Placeholder</text>
+  <text x="24" y="40" font-size="24" font-family="Arial" fill="#2d3748">Appointment Status Flow</text>
   <text x="24" y="70" font-size="16" font-family="Arial" fill="#4a5568">Typical path with cancel option at any stage.</text>
   <rect x="24" y="96" width="976" height="200" fill="#ffffff" stroke="#cbd5e0"/>
-  <circle cx="100" cy="196" r="22" fill="#4299e1"/>
-  <text x="80" y="202" font-size="12" font-family="Arial" fill="#ffffff">New</text>
-  <line x1="122" y1="196" x2="242" y2="196" stroke="#a0aec0" stroke-width="2" marker-end="url(#arrow)"/>
-  <circle cx="264" cy="196" r="22" fill="#48bb78"/>
-  <text x="238" y="202" font-size="12" font-family="Arial" fill="#ffffff">Confirmed</text>
-  <line x1="286" y1="196" x2="406" y2="196" stroke="#a0aec0" stroke-width="2" marker-end="url(#arrow)"/>
-  <circle cx="428" cy="196" r="22" fill="#9f7aea"/>
-  <text x="400" y="202" font-size="12" font-family="Arial" fill="#ffffff">Scheduled</text>
-  <line x1="450" y1="196" x2="570" y2="196" stroke="#a0aec0" stroke-width="2" marker-end="url(#arrow)"/>
-  <circle cx="592" cy="196" r="22" fill="#f56565"/>
-  <text x="570" y="202" font-size="12" font-family="Arial" fill="#ffffff">Finished</text>
-  <circle cx="804" cy="150" r="20" fill="#ed8936"/>
-  <text x="790" y="156" font-size="12" font-family="Arial" fill="#ffffff">Cancelled</text>
-  <line x1="122" y1="196" x2="784" y2="150" stroke="#ecc94b" stroke-dasharray="4"/>
-  <line x1="286" y1="196" x2="784" y2="150" stroke="#ecc94b" stroke-dasharray="4"/>
-  <line x1="450" y1="196" x2="784" y2="150" stroke="#ecc94b" stroke-dasharray="4"/>
+  
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
       <path d="M 0 0 L 10 5 L 0 10 z" fill="#a0aec0" />
     </marker>
   </defs>
-</svg>
 
+  <!-- Pending -->
+  <circle cx="100" cy="196" r="22" fill="#4299e1"/>
+  <text x="100" y="235" text-anchor="middle" font-size="12" font-family="Arial" fill="#2d3748" font-weight="bold">Pending</text>
+  
+  <!-- Arrow 1 -->
+  <line x1="122" y1="196" x2="328" y2="196" stroke="#a0aec0" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Customer Confirmed -->
+  <circle cx="350" cy="196" r="22" fill="#9f7aea"/>
+  <text x="350" y="235" text-anchor="middle" font-size="12" font-family="Arial" fill="#2d3748" font-weight="bold">Customer Confirmed</text>
+
+  <!-- Arrow 2 -->
+  <line x1="372" y1="196" x2="578" y2="196" stroke="#a0aec0" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Confirmed -->
+  <circle cx="600" cy="196" r="22" fill="#48bb78"/>
+  <text x="600" y="235" text-anchor="middle" font-size="12" font-family="Arial" fill="#2d3748" font-weight="bold">Confirmed</text>
+
+  <!-- Arrow 3 -->
+  <line x1="622" y1="196" x2="828" y2="196" stroke="#a0aec0" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Finished -->
+  <circle cx="850" cy="196" r="22" fill="#f56565"/>
+  <text x="850" y="235" text-anchor="middle" font-size="12" font-family="Arial" fill="#2d3748" font-weight="bold">Finished</text>
+
+  <!-- Canceled -->
+  <circle cx="920" cy="130" r="20" fill="#ed8936"/>
+  <text x="920" y="110" text-anchor="middle" font-size="12" font-family="Arial" fill="#ed8936" font-weight="bold">Cancelled</text>
+
+  <!-- Dashed Lines to Canceled -->
+  <!-- From Pending -->
+  <line x1="122" y1="196" x2="900" y2="130" stroke="#ecc94b" stroke-dasharray="4"/>
+  <!-- From Customer Confirmed -->
+  <line x1="372" y1="196" x2="900" y2="130" stroke="#ecc94b" stroke-dasharray="4"/>
+  <!-- From Confirmed -->
+  <line x1="622" y1="196" x2="900" y2="130" stroke="#ecc94b" stroke-dasharray="4"/>
+
+</svg>

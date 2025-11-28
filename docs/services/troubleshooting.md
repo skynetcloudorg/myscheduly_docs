@@ -1,6 +1,11 @@
+---
+title: Troubleshooting
+sidebar_position: 3
+---
+
 # Services — Troubleshooting
 
-Last updated: 2025-11-27
+
 
 ## Common Issues and Solutions
 

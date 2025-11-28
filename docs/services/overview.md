@@ -1,11 +1,11 @@
 ---
-title: Services — Overview
+title: Overview
 sidebar_position: 1
 ---
 
 # Services
 
-Last updated: 2025-11-27
+
 
 ## Why This Matters
 Services define what you sell and how long each appointment takes. Accurate price and duration keep your schedule realistic and your billing correct. Clear provider assignments ensure customers only see staff who can deliver the service.
@@ -32,9 +32,6 @@ Services define what you sell and how long each appointment takes. Accurate pric
 - Click “New Service”, enter Name, Category (optional), Duration (minutes), Price, Cost (optional).
 - Assign providers and set visibility; click Save.
 - Click any service to view details and Edit or Delete when appropriate.
-
-## Screenshots
-- Services overview: ![Services Overview](images/services_overview.svg)
 
 ## Practical Tips
 - Keep names short and clear so customers recognize them.

@@ -1,6 +1,11 @@
+---
+title: Pricing
+sidebar_position: 3
+---
+
 # Service Add-ons — Pricing
 
-Last updated: 2025-11-27
+
 
 ## Cost Structure and Billing
 - Add-on Price adds to the base service price when selected.
@@ -14,7 +19,6 @@ Last updated: 2025-11-27
 - Client selects both.
 - Total Price: $50 + $15 = $65.
 - Total Duration: 45 + 15 = 60 minutes.
-- Screenshot: ![Pricing Example](images/addons_pricing_example.svg)
 
 ## Backend Behavior (Verified)
 - Totals add all selected add-on prices to the service price (`app/Models/Appointment.php:165–175`).

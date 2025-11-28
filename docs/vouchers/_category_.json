@@ -1,5 +1,8 @@
 {
-  "label": "Vouchers",
+  "label": "Vouchers & Gift Cards",
   "position": 11,
-  "link": { "type": "generated-index", "description": "Voucher types, gift cards, rules, and analytics." }
+  "link": {
+    "type": "generated-index",
+    "description": "Voucher types, gift cards, rules, and analytics."
+  }
 }

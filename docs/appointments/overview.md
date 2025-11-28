@@ -1,11 +1,11 @@
 ---
-title: Appointments — Overview
+title: Overview
 sidebar_position: 1
 ---
 
 # Appointments
 
-Last updated: 2025-11-27
+
 
 ## Why This Matters
 Appointments connect your customers, services, and staff into a reliable schedule. When you set the right status and time, the system sends reminders, updates calendar events, and keeps revenue accurate. This helps your team avoid double‑bookings and keeps customers informed.
@@ -48,13 +48,6 @@ Notes:
 - Notifications: reminders send only when status is Confirmed (SMS ~2 hours, email ~24 hours).
 - Permissions: staff see and manage only their own appointments; managers/owners see the whole team.
 - Calendar Sync: confirmed appointments create/update/delete Google/Microsoft events; external events also block overlapping slots.
-
-## Screenshots
-- Appointments list: ![Appointments List](images/appointments_list.svg)
-- Create appointment form: ![Create Form](images/appointment_create_form.svg)
-- Edit appointment form: ![Edit Form](images/appointment_edit_form.svg)
-- Appointment details: ![Appointment Details](images/appointment_show.svg)
-- Appointment groups: ![Appointment Groups](images/appointment_groups.svg)
 
 ## Practical Tips
 - Select the service first so duration and available staff load correctly.

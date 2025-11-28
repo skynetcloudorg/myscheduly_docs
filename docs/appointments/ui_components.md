@@ -1,11 +1,10 @@
 # Appointment Screens and Form Fields
 
-Last updated: 2025-11-27
+
 
 ## Appointments List
 - Purpose: view, search, and filter all appointments.
 - When to use: daily operations, quick status changes, and bulk actions.
-- Visual: ![Appointments List](images/appointments_list.svg)
 - How to use:
   - Search by customer, service, or ID.
   - Filter by status and date range.
@@ -14,7 +13,6 @@ Last updated: 2025-11-27
 
 ## Create Appointment Form
 - Purpose: add a new appointment in three simple steps.
-- Visual: ![Create Form](images/appointment_create_form.svg)
 - Fields (what to enter and why):
   - Appointment Date: the day of the visit.
   - Service: the service to provide; shows duration and price.
@@ -28,7 +26,6 @@ Last updated: 2025-11-27
 
 ## Edit Appointment Form
 - Purpose: adjust date/time, staff, and notes.
-- Visual: ![Edit Form](images/appointment_edit_form.svg)
 - How to use:
   - Change date or time (avoid past times).
   - Update the professional if needed.
@@ -36,7 +33,6 @@ Last updated: 2025-11-27
 
 ## Appointment Details
 - Purpose: see full information, totals, discounts, and profit.
-- Visual: ![Appointment Details](images/appointment_show.svg)
 - How to use:
   - Review the customer and contact info.
   - Check applied vouchers and totals.
@@ -44,7 +40,6 @@ Last updated: 2025-11-27
 
 ## Appointment Groups
 - Purpose: group multiple services and add‑ons into one checkout and track them with a single Group Code.
-- Visual: ![Appointment Groups](images/appointment_groups.svg)
 - When to use:
 -  - A customer books more than one service at the same time.
 -  - You want a single total and an easier way to review status.

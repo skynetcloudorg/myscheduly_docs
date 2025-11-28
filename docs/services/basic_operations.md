@@ -1,6 +1,11 @@
+---
+title: Basic Operations
+sidebar_position: 2
+---
+
 # Services — Basic Operations
 
-Last updated: 2025-11-27
+
 
 ## Why This Matters
 The right duration and provider assignment keep your schedule accurate. Price and cost drive revenue and margins. Visibility settings control what clients can book.
@@ -8,7 +13,6 @@ The right duration and provider assignment keep your schedule accurate. Price an
 ## Create a Service
 - Open Services from your dashboard.
 - Click “New Service”.
-- Screenshot: ![Create Service Form](images/services_create_form.svg)
 - Fill in details:
   - Name and Category (required): choose the category this service belongs to.
   - Duration (minutes): used by scheduling and conflict checks.
@@ -24,12 +28,10 @@ What happens next:
 ## View Services
 - Search by name; filter by category or provider.
 - Click a service to see details, linked add‑ons, and assigned providers.
-- Screenshot: ![Services List](images/services_list.svg)
 
 ## Edit a Service
 - Open the service and click “Edit”.
 - Change name, price, duration, cost, visibility, providers; click Save.
-- Screenshot: ![Edit Service](images/service_edit.svg)
 
 Consequences of changes:
 - Shorter/longer durations change slot suggestions and overlapping checks.
@@ -40,7 +42,6 @@ Consequences of changes:
 - Open the service detail page → “Delete” → confirm.
 - Note: Deleting removes the service from booking; existing appointments are not automatically cancelled.
 - If deletion fails, hide the service instead to retire it without affecting past bookings.
-- Screenshot: ![Delete Service](images/service_delete.svg)
 
 ## Tips
 - Adjust durations when you see consistent overruns or underruns.

@@ -1,5 +1,8 @@
 {
   "label": "Service Add-ons",
-  "position": 7,
-  "link": { "type": "generated-index", "description": "Add-ons management, pricing, and linking to services." }
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Add-ons management, pricing, and linking to services."
+  }
 }

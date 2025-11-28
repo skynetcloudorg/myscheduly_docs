@@ -1,11 +1,11 @@
 ---
-title: Service Add-ons — Overview
+title: Overview
 sidebar_position: 1
 ---
 
 # Service Add-ons
 
-Last updated: 2025-11-27
+
 
 ## Why This Matters
 Add-ons let customers customize their appointments and increase average order value. Correct linking ensures only relevant extras show, and accurate duration/price keep schedules and billing right.
@@ -25,9 +25,6 @@ Add-ons let customers customize their appointments and increase average order va
 - Open Service Add-ons from your dashboard.
 - Click “New Add-on”, enter details, link to applicable services, and set to Active.
 - Edit later to attach/detach services or deactivate temporarily.
-
-## Screenshots
-- Add-ons overview: ![Add-ons Overview](images/addons_overview.svg)
 
 ## Practical Tips
 - Keep descriptions short and benefit-focused.

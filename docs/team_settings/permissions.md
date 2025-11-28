@@ -1,48 +1,49 @@
-# Permissions & Visibility — Matrix
+---
+title: Permissions Matrix
+sidebar_position: 5
+---
 
-## Why This Matters
-Clear permissions protect sensitive data and keep each person focused on what they need. Understanding access helps you assign roles correctly and explain why certain buttons or totals are hidden.
+# Permissions Matrix
 
-## Roles
-- Owner: full control, including Organization Settings, publish to live, and subscription management.
-- Manager: broad operational control; can manage appointments, customers, services, vouchers, and often see team metrics.
-- Staff: focused on their own schedule; limited access to system‑wide settings and financial summaries.
+Assigning the right role is crucial for security. Use this matrix to decide which role fits each staff member.
 
-## Modules and Access
-- Organization Settings
-  - Owners can Save Draft, Preview, and Publish to live.
-  - Managers and Staff can view; they cannot publish.
-- Appointments
-  - Staff can create and update appointments where they are the assigned professional; they cannot delete appointments.
-  - Managers and Owners can manage all team appointments, including deletion.
-  - Reminders send only for Confirmed bookings.
-- Customers
-  - Staff, Managers, and Owners can view all customers in the team.
-  - Managers and Owners see all customers.
-- Dashboard
-  - Staff see their schedule and operational metrics; financial cards are hidden.
-  - Managers and Owners see team‑wide metrics, including financial cards.
-- Vouchers & Gift Cards
-  - Managers and Owners create, edit, and deactivate.
-  - Staff apply codes during checkout.
-- Calendar Integration
-  - Each person connects their own calendar and manages their own sync.
-  - Managers and Owners can guide provider setup. Connect one provider at a time to avoid conflicts.
-- Surveys & Reviews
-  - Owners and Managers control auto‑send, moderation, and website display.
-  - Staff can view results; publishing controls remain limited.
-- Team Settings
-  - Owners manage subscriptions, team URL, invitations, and roles.
-  - Managers may assist with members and roles depending on your setup.
+## Role Definitions
 
-## What Happens After Role Changes
-- Increasing access: new permissions take effect immediately; hidden menus, buttons, and totals appear.
-- Reducing access: restricted areas disappear from menus; users keep access to their own appointments and profile.
+### 👑 Owner
+*   **Who:** The business owner.
+*   **Power:** Unlimited.
+*   **Key Abilities:** Manage billing, delete the team, edit public website, view all financial reports.
 
-## Practical Guidance
-- Assign Owner only to those who need publishing control and subscription management.
-- Use Manager to oversee daily operations without exposing organization‑wide publishing.
-- Keep Staff focused on their schedule to reduce mistakes and protect sensitive data.
+### 🛡️ Manager
+*   **Who:** Receptionists, shift supervisors, or office managers.
+*   **Power:** High operational control, but no "destructive" power.
+*   **Key Abilities:** Manage everyone's appointments, edit customer profiles, update service prices, view team schedule.
+*   **Restrictions:** Cannot delete the team, change the subscription, or edit the public website design.
 
-## Why This Matters
-When roles match responsibilities, your team moves faster and sensitive information stays protected. This structure also reduces errors in publishing and keeps financial visibility aligned with policy.
+### 👤 Staff
+*   **Who:** Service providers (stylists, barbers, therapists).
+*   **Power:** Focused on their own work.
+*   **Key Abilities:** View/Manage *their own* schedule and appointments.
+*   **Restrictions:** Cannot see other staff's schedules, cannot see total business revenue, cannot change settings.
+
+## Feature Access Table
+
+| Feature | Owner | Manager | Staff |
+| :--- | :---: | :---: | :---: |
+| **Team Settings** | | | |
+| Manage Subscription | ✅ | ❌ | ❌ |
+| Invite/Remove Members | ✅ | ❌ | ❌ |
+| Change Team URL | ✅ | ❌ | ❌ |
+| **Operations** | | | |
+| View All Appointments | ✅ | ✅ | ❌ (Own only) |
+| Edit Services & Prices | ✅ | ✅ | ❌ |
+| Edit Public Website | ✅ | ❌ | ❌ |
+| **Data & Finance** | | | |
+| View Total Revenue | ✅ | ✅ | ❌ |
+| View Customer List | ✅ | ✅ | ✅ |
+
+## Best Practices
+
+1.  **Limit Owners:** Try to have only 1 or 2 Owners. This prevents accidental changes to billing or critical settings.
+2.  **Protect Privacy:** Staff roles are designed to hide sensitive financial data. If a staff member doesn't need to see the shop's total monthly revenue, keep them as "Staff".
+3.  **Receptionists:** The "Manager" role is perfect for front-desk staff who need to book appointments for everyone but shouldn't be able to delete the website.

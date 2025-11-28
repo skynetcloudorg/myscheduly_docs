@@ -1,12 +1,16 @@
 ---
-title: MyScheduly Docs — Start Here
-slug: start-here
-sidebar_label: Start Here
+title: MyScheduly Docs — Welcome
+slug: /
+sidebar_label: Welcome
 sidebar_position: 0
 description: A practical, training-style index for the whole system.
 ---
 
-# Welcome to MyScheduly
+<p style={{textAlign: 'center'}}>
+  <img className="docsHomeLogo" src="/img/logo.svg" alt="MyScheduly" width="120" />
+</p>
+
+# Welcome to MyScheduly Documentation
 
 Your documentation is organized for day-to-day operation. Start with the quick setup, then follow the training paths based on your role.
 

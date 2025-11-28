@@ -1,35 +1,37 @@
-# Dashboard — Troubleshooting
+---
+title: Troubleshooting
+sidebar_position: 5
+---
 
-Last updated: 2025-11-27
+# Troubleshooting
 
-## Common Issues
+If the data on your dashboard doesn't look right, check these common issues before contacting support.
 
-### Data doesn’t change after applying filters
-- Click Refresh to trigger an update.
-- Confirm the selected date range actually includes appointments.
-- Note that gift card revenue uses gift card creation date.
+## "The numbers don't match my manual records."
 
-### Charts show “No Data”
-- If there are no appointments or vouchers in the range, charts may show zeros.
-- Try a broader period like Last 30 Days or This Year.
+**Check the Date Range**
+*   It sounds simple, but it is the most common cause. Ensure you haven't accidentally selected "Last 7 Days" instead of "This Week".
+*   Check the **Timezone**. If your manual records are in one timezone and the system is in another, the "end of the day" cutoff will be different, shifting bookings to the next day.
 
-### Staff can’t access the dashboard
-- Staff accounts see a simplified staff dashboard.
-- Managers/Owners see the full dashboard. If access is restricted, ask your team admin to review your role and permissions.
+**Check the Filters**
+*   Do you have a specific **Staff member** selected? This hides bookings for everyone else.
+*   Do you have a **Service** filter applied?
 
-### Financial cards are missing
-- Some financial metrics require specific permissions. If you’re a staff member, your view may exclude revenue totals and advanced analytics.
+## "I can't see revenue or financial charts."
 
-### Numbers look off with gift cards
-- Total Revenue counts completed appointments totals.
-- AOV and Add-ons Revenue adjust for gift card and discount scenarios.
-- Gift Card Revenue reflects sales when gift cards are created.
+**Check your Permissions**
+*   For privacy and security, not all staff members have access to financial data.
+*   If you are a staff member, you might only see your own schedule and performance stats. Ask your manager to check your "Role Permissions" if you need access.
 
-## Tips & Tricks
-- Use comparison labels to read trends (“Last Month”, “Previous 30 Days”).
-- Watch service market share to identify winners and laggards.
+## "The chart looks flat or empty."
 
-## Validation Checklist
-- Cross-check a sample appointment against Total Revenue and AOV.
- - Verify your team’s timezone settings so “today” aligns with your local time.
-- Check console for network errors during refresh.
+**Check for Data**
+*   If you selected a period with no bookings (like a future date range), the charts will be empty.
+*   Click **Refresh**. The dashboard does not update live; it needs a refresh to pull in the latest bookings made in the last few minutes.
+
+## "Gift Card revenue isn't showing up in the total."
+
+**Understand the Calculation**
+*   **Total Revenue** typically tracks *completed appointments*.
+*   **Gift Card Revenue** is tracked separately when the card is *sold*.
+*   Check the specific "Gift Card Revenue" card to see those sales. They might not be merged into the main "Service Revenue" line depending on your specific report view.

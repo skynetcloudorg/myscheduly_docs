@@ -1,9 +1,0 @@
-{
-  "label": "Documentation",
-  "link": {
-    "type": "generated-index",
-    "title": "MyScheduly Documentation",
-    "description": "Browse all modules and guides for MyScheduly.",
-    "slug": "/"
-  }
-}

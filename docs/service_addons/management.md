@@ -1,20 +1,23 @@
+---
+title: Management
+sidebar_position: 2
+---
+
 # Service Add-ons — Management
 
-Last updated: 2025-11-27
+
 
 Use this guide to attach/detach add-ons to services and manage their details.
 
 ## Create an Add-on
 - Open Service Add-ons from your dashboard.
 - Click “New Add-on”.
-- Screenshot: ![Create Add-on Form](images/addon_create_form.svg)
 - Fill in details:
   - Name and Description.
   - Price and Cost (optional).
   - Duration (minutes, optional) if the extra adds time.
   - Active to show to clients.
 - Link to services where this add-on is available.
-- Screenshot: ![Link Add-ons to Services](images/addons_link_services.svg)
 - Click Save and confirm it appears for the selected services.
 
 What happens after changes:

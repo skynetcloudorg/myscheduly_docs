@@ -1,41 +1,51 @@
-# Calendar Sync — Troubleshooting
+---
+title: Troubleshooting
+sidebar_position: 5
+---
 
-## Why This Matters
-When sync slows or looks wrong, it affects your day. These checks help you quickly diagnose connection and timing issues so your schedule stays accurate.
+# Troubleshooting
 
-## Common Issues and Fixes
-- Not Connected
-  - Symptom: status shows “Not Connected”.
-  - Fix: click Connect and complete authorization. Disconnect any other provider first.
-- Live Updates Not Appearing
-  - Symptom: changes don’t show up in your external calendar.
-  - Fix: use Advanced options to test or refresh live updates.
-- Slow or Partial Sync
-  - Symptom: some events take minutes to appear.
-  - Fix: wait 1–5 minutes for the initial pass; large calendars take longer. Use Sync Now on busy days.
-- Duplicate or Conflicting Edits
-  - Symptom: two versions of the same event or mismatched times.
-  - Fix: make changes in MyScheduly and let sync update your external calendar. Avoid editing both systems at once.
-- Wrong Timezone
-  - Symptom: events appear on the wrong day or at the wrong time.
-  - Fix: align your external calendar’s timezone with your team’s timezone.
-- Provider Switching Artifacts
-  - Symptom: lingering updates after disconnect.
-  - Fix: disconnect cleanly before reconnecting another provider; use Advanced options to refresh status.
-- Busy Day Rate Limits
-  - Symptom: occasional delays during heavy activity.
-  - Fix: try again after a short pause; plan a Sync Now early on busy days.
+Is your calendar behaving strangely? Here are the most common issues and how to fix them quickly.
 
-## Preventative Tips
-- Connect only one provider per user.
-- Keep team and external calendar timezones aligned.
-- Use Sync Now before events where scheduling is critical.
-- Avoid simultaneous edits in both systems.
+## "My appointments aren't showing up in Google/Outlook."
 
-## What Happens After Fixes
-- Reconnecting restores full sync and re‑enables live updates.
-- Refreshing live updates resumes near‑real‑time changes.
-- Aligning timezone clears off‑by‑day confusion.
+**Check the Status**
+Go to the Calendar Integration page. Does it say "Connected"?
+*   **No:** Click "Connect" and log in again. Sometimes permissions expire.
+*   **Yes:** Click **Sync Now**. Wait 5 minutes and check again.
 
-## Why This Matters
-With quick checks and clean switching, your calendar stays accurate, and your team avoids double‑booking or missed updates. These steps keep both systems in step without manual re‑entry.
+**Check the Calendar Display**
+On your phone or computer, make sure you are viewing the *correct* calendar. Sometimes we have multiple accounts (work, personal, family) on one device. Ensure the checkmark is next to the account you linked to MyScheduly.
+
+## "I'm getting double-booked!"
+
+**Check for "All Day" Events**
+Did you create an "All Day" event in your personal calendar (like a birthday) but mark it as "Free" instead of "Busy"?
+*   **Fix:** In Google/Outlook, change the event status from "Free" to "Busy." MyScheduly only blocks time if you are actually marked as busy.
+
+**Check Multiple Connections**
+Did you connect the same calendar account to two different staff profiles?
+*   **Fix:** Disconnect one and use a unique calendar for each staff member.
+
+## "The times are wrong (off by a few hours)."
+
+**Check Timezones**
+This is almost always a timezone mismatch.
+1.  Check your **MyScheduly** Team Timezone (in General Settings).
+2.  Check your **Google/Outlook** Calendar settings.
+3.  Make sure they match exactly (e.g., both are "America/New_York").
+
+## "I changed an appointment in Google, but it didn't change in MyScheduly."
+
+**Remember the Golden Rule**
+Client appointments should be edited in **MyScheduly**.
+*   **Why:** MyScheduly is the "master" for bookings. It needs to send confirmation emails and update customer records. If you just move the block in Google, MyScheduly might not know *why* it moved or if the client agreed to it.
+
+## "It says 'Connected' but nothing is syncing."
+
+**Refresh the Connection**
+Sometimes the digital "handshake" gets broken.
+1.  Click **Disconnect**.
+2.  Refresh your browser page.
+3.  Click **Connect** and authorize again.
+This resets the system and usually solves stuck syncs.

@@ -1,6 +1,6 @@
 # Common Appointment Tasks
 
-Last updated: 2025-11-27
+
 
 ## Book a New Appointment
 - When to use: adding a visit for a customer.
