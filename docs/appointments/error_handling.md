@@ -1,6 +1,6 @@
 # Errors and Troubleshooting
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Common Error Messages
 - No available time slots: pick a different period or use Custom Time.

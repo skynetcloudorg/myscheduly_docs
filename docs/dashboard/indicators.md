@@ -1,6 +1,6 @@
 # Dashboard — Indicators
 
-Version: 1.0.28 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 Use this guide to understand each dashboard metric, how to read it, and what actions to take.
 

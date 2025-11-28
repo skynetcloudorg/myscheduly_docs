@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Calendar Integration — Overview
 
-Version: 1.0.28 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Purpose and Audience
 The calendar integration connects MyScheduly to your external calendar so your appointments and events stay in sync. It is designed for:

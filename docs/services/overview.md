@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Services
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Why This Matters
 Services define what you sell and how long each appointment takes. Accurate price and duration keep your schedule realistic and your billing correct. Clear provider assignments ensure customers only see staff who can deliver the service.

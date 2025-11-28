@@ -1,6 +1,6 @@
 # Dashboard — Usage Guide
 
-Version: 1.0.28 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 This guide helps business users get the most value from the dashboard without technical details.
 

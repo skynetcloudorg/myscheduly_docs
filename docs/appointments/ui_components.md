@@ -1,6 +1,6 @@
 # Appointment Screens and Form Fields
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Appointments List
 - Purpose: view, search, and filter all appointments.

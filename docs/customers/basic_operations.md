@@ -1,6 +1,6 @@
 # Customers — Basic Operations
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Why This Matters
 Accurate customer profiles make booking faster and communications reliable. When email and phone are correct, verification links, reminders, and receipts go to the right person. Clear notes help staff deliver consistent service.

@@ -1,6 +1,6 @@
 # System Requirements
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Minimum Device Specifications
 - Stable internet connection (10 Mbps or higher recommended).

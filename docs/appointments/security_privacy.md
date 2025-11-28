@@ -1,6 +1,6 @@
 # Security and Privacy
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Data Protection Measures
 - Appointments are transmitted over secure connections.

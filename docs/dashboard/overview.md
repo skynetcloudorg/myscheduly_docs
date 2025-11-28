@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Dashboard Overview
 
-Version: 1.0.28 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Purpose and Audience
 The dashboard gives a live snapshot of business performance. It is designed for:

@@ -1,6 +1,6 @@
 # Services — Basic Operations
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Why This Matters
 The right duration and provider assignment keep your schedule accurate. Price and cost drive revenue and margins. Visibility settings control what clients can book.

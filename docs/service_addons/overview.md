@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Service Add-ons
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Why This Matters
 Add-ons let customers customize their appointments and increase average order value. Correct linking ensures only relevant extras show, and accurate duration/price keep schedules and billing right.

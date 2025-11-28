@@ -1,6 +1,6 @@
 # Service Add-ons — Management
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 Use this guide to attach/detach add-ons to services and manage their details.
 

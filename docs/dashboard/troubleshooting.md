@@ -1,6 +1,6 @@
 # Dashboard — Troubleshooting
 
-Version: 1.0.28 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Common Issues
 

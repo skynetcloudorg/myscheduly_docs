@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Appointments
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Why This Matters
 Appointments connect your customers, services, and staff into a reliable schedule. When you set the right status and time, the system sends reminders, updates calendar events, and keeps revenue accurate. This helps your team avoid double‑bookings and keeps customers informed.

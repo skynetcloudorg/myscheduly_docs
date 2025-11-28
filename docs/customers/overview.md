@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Customers
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## What It Is and Why It Matters
 Use the Customers module to store and manage client details, preferences, and history. A complete customer profile helps your team personalize service, increase repeat bookings, and build long‑term relationships.

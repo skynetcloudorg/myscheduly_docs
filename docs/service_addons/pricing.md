@@ -1,6 +1,6 @@
 # Service Add-ons — Pricing
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Cost Structure and Billing
 - Add-on Price adds to the base service price when selected.

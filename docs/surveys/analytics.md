@@ -1,6 +1,6 @@
 # Survey Analytics
 
-Version: 1.0.29 | Last updated: 2025-11-27
+Last updated: 2025-11-27
 
 ## Feature Overview
 Survey Analytics helps you understand customer satisfaction and spot opportunities to improve. It summarizes feedback collected from the survey form into easy‑to‑read metrics and visuals. Managers use it to guide training and promotions; staff use it to see how clients feel about recent visits.
