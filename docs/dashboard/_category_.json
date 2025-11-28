@@ -1,0 +1,5 @@
+{
+  "label": "Dashboard",
+  "position": 4,
+  "link": { "type": "generated-index", "description": "Overview, indicators, and analytics details." }
+}

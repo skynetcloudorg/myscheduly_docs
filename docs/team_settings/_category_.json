@@ -1,0 +1,5 @@
+{
+  "label": "Team Settings",
+  "position": 10,
+  "link": { "type": "generated-index", "description": "Team URL, members, roles, limits, and usage." }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="520" viewBox="0 0 1024 520">
+  <rect width="1024" height="520" fill="#f7fafc"/>
+  <text x="24" y="40" font-size="24" font-family="Arial" fill="#2d3748">Edit Appointment — Placeholder</text>
+  <text x="24" y="70" font-size="16" font-family="Arial" fill="#4a5568">Change date/time, staff, and notes.</text>
+  <rect x="24" y="96" width="976" height="100" fill="#ffffff" stroke="#cbd5e0"/>
+  <circle cx="48" cy="126" r="8" fill="#4299e1"/>
+  <text x="64" y="130" font-size="14" font-family="Arial" fill="#2d3748">Date</text>
+  <circle cx="120" cy="126" r="8" fill="#48bb78"/>
+  <text x="136" y="130" font-size="14" font-family="Arial" fill="#2d3748">Time</text>
+  <circle cx="200" cy="126" r="8" fill="#ed8936"/>
+  <text x="216" y="130" font-size="14" font-family="Arial" fill="#2d3748">Professional</text>
+  <rect x="24" y="210" width="976" height="220" fill="#ffffff" stroke="#cbd5e0"/>
+  <text x="40" y="240" font-size="14" font-family="Arial" fill="#2d3748">Notes and restrictions (no edits after Finished)</text>
+</svg>
+

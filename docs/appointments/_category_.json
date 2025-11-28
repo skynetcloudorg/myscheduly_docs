@@ -1,0 +1,8 @@
+{
+    "label": "Appointments",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "Guides for booking, statuses, notifications, and checkout."
+    }
+}

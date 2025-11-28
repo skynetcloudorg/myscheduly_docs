@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="640" viewBox="0 0 1024 640">
+  <rect x="0" y="0" width="1024" height="640" fill="#ffffff"/>
+  <text x="24" y="40" font-size="24" font-family="Arial" fill="#2d3748">Layout Components — Placeholder</text>
+  <rect x="24" y="64" width="976" height="64" fill="#dbeafe" stroke="#93c5fd"/>
+  <text x="36" y="104" font-size="14" font-family="Arial" fill="#1e3a8a">Filters Bar</text>
+  <rect x="24" y="144" width="976" height="96" fill="#d1fae5" stroke="#34d399"/>
+  <text x="36" y="192" font-size="14" font-family="Arial" fill="#064e3b">Metric Cards</text>
+  <rect x="24" y="256" width="976" height="160" fill="#fef3c7" stroke="#f59e0b"/>
+  <text x="36" y="336" font-size="14" font-family="Arial" fill="#78350f">Analytics Charts</text>
+  <rect x="24" y="432" width="976" height="96" fill="#fae8ff" stroke="#d946ef"/>
+  <text x="36" y="480" font-size="14" font-family="Arial" fill="#4a044e">Data Tables</text>
+  <rect x="24" y="544" width="976" height="64" fill="#e0e7ff" stroke="#818cf8"/>
+  <text x="36" y="584" font-size="14" font-family="Arial" fill="#1e1b4b">Survey Analytics</text>
+</svg>

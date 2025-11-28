@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540">
+  <rect x="0" y="0" width="900" height="540" fill="#f7fafc"/>
+  <text x="20" y="40" font-size="24" font-family="Arial" fill="#2d3748">Pricing Example — Placeholder</text>
+  <text x="20" y="80" font-size="16" font-family="Arial" fill="#4a5568">Replace with a real screenshot of cart/booking totals.</text>
+  <rect x="20" y="110" width="860" height="380" fill="#edf2f7" stroke="#cbd5e0"/>
+  <text x="40" y="160" font-size="18" font-family="Arial" fill="#2d3748">Service: $50</text>
+  <text x="40" y="200" font-size="18" font-family="Arial" fill="#2d3748">Add-on: $15</text>
+  <text x="40" y="240" font-size="18" font-family="Arial" fill="#2d3748">Total: $65</text>
+  <text x="40" y="280" font-size="18" font-family="Arial" fill="#2d3748">Duration: 45 + 15 = 60 min</text>
+</svg>
